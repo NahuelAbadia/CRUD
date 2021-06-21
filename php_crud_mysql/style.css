@@ -1,0 +1,10 @@
+.form-group #cuadro{ /*hago que el tamaño del cuadro "description" no pueda ser alterado por el usuario*/
+    resize:none;
+    height:90px; 
+}
+.form-group #cuadro1{ 
+    resize:none;
+    height:90px;
+}
+
+/*Que pasa si no cierro la etiqueta html, pq no toma el css. Es necesario cerrar la etiqueta html body head*/
